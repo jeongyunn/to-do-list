@@ -2,6 +2,7 @@
 
 <div align-center> 
   <div>
+    <h4> * link : https://jeongyunn.github.io/to-do-list/ </h4>
     <h4> * 프로젝트 기간 : 2022년 11월 </h4>
     <ul>
       <li>7일 - 프로젝트 기획</li>
